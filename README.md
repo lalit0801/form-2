@@ -1,2 +1,2 @@
 # form-2
-this is the second project i.e. a registration form
+This is a registration form made using HTML
